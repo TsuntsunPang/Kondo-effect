@@ -1,3 +1,13 @@
+## Kondo effect 
+### Anomalous Density of States in Dilute Magnetic Alloys 
+### https://academic.oup.com/ptp/article/33/4/575/1852476
+
+
+
+
+
+
+
 ##  Topological Kondo effect
 ### 1.Topological Kondo Effect with Majorana Fermions
 ### https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.109.156803
