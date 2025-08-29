@@ -1,6 +1,8 @@
 ## Kondo effect 
-### Anomalous Density of States in Dilute Magnetic Alloys 
+### 1.Anomalous Density of States in Dilute Magnetic Alloys 
 ### https://academic.oup.com/ptp/article/33/4/575/1852476
+### 2. A poor man's derivation of scaling laws for the Kondo problem
+### https://sci-hub.se/https://iopscience.iop.org/article/10.1088/0022-3719/3/12/008/pdf
 
 
 
