@@ -8,6 +8,12 @@
 
 
 
+### Exact conformal-field-theory results on the multi-channel Kondo effect: Asymptotic three-dimensional space- and time-dependent multi-point and many-particle Green's functions
+### https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/0550321394903654
+
+
+
+
 
 
 ##  Topological Kondo effect
